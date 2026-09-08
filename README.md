@@ -1,9 +1,9 @@
-<img width="480" height="282" alt="CfWelcomGIFbyCalvaryFellowshipChurch" src="https://github.com/user-attachments/assets/58272653-e64b-4480-86ed-4bdeabc01367" />
-
+<img width="400" height="200" alt="TomHanksHelloGIF" src="https://github.com/user-attachments/assets/afcab591-e201-47ab-b7e4-22d4e9976a7d" />
 ## Hi there, my name is Christian 👋
 - 👨‍🎓 I’m currently studying .NET software development.
 - 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/christian-davidsson-418470431/
+- 📫 How to reach me: christiandavidsson@hotmail.com
+- 💻 LinkedIn: https://www.linkedin.com/in/christian-davidsson-418470431/
 
 
                       
