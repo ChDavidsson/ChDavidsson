@@ -1,7 +1,9 @@
 ## Hi there, my name is Christian 👋
-- 👨‍🎓 I’m currently learning .NET software development.
+- 👨‍🎓 I’m currently studying .NET software development.
 - 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/christian-davidsson-418470431/
+- 📫 How to reach me:
+      https://www.linkedin.com/in/christian-davidsson-418470431/
+      christiandavidsson@hotmail.com
                       
 
 <!--
