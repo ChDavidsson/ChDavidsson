@@ -1,9 +1,9 @@
 ## Hi there, my name is Christian 👋
 - 👨‍🎓 I’m currently studying .NET software development.
 - 💬 Ask me about anything
-- 📫 How to reach me:
-      https://www.linkedin.com/in/christian-davidsson-418470431/
-      christiandavidsson@hotmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/christian-davidsson-418470431/
+- <img width="480" height="282" alt="CfWelcomGIFbyCalvaryFellowshipChurch" src="https://github.com/user-attachments/assets/58272653-e64b-4480-86ed-4bdeabc01367" />
+
                       
 
 <!--
