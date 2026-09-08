@@ -1,6 +1,6 @@
 <img width="400" height="200" alt="TomHanksHelloGIF" src="https://github.com/user-attachments/assets/afcab591-e201-47ab-b7e4-22d4e9976a7d" />
 
-## Hi there, my name is Christian 👋
+## Hi there, my name is Christian
 - 👨‍🎓 I’m currently studying .NET software development.
 - 💬 Ask me about anything
 - 📫 How to reach me: christiandavidsson@hotmail.com
