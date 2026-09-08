@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, my name is Christian 👋
+- 👨‍🎓 I’m currently learning .NET software development.
+- 💬 Ask me about anything
+- 📫 How to reach me: https://www.linkedin.com/in/christian-davidsson-418470431/
+                      
 
 <!--
 **ChDavidsson/ChDavidsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
